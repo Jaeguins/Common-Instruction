@@ -1,0 +1,6 @@
+이 프로젝트의 표준 에이전트 지침은 /AGENTS.md를 기준으로 한다.
+작업 전 /AGENTS.md를 먼저 확인하고, 작업 유형에 따라 필요한 Docs 문서를 읽는다.
+지침 우선순위, 충돌 처리, Governance Change, 작업 완료 보고 형식은 모두 /AGENTS.md를 따른다.
+
+# Cursor 전용 제약
+# TODO: Cursor 전용 특수 제약이 있다면 여기에 작성한다. 없으면 비워 둔다.
